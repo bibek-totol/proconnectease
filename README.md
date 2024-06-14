@@ -3,6 +3,8 @@
 # 2.Install expo cli for your project(expo environment)
 # 3.command: npm install (for up to date all package installation)
 # 4. Used Jsearch api
+# 5. Use android emulator or expo go for running this app
+# 6. Start project could be npx expo start or npm start or expo start in the terminal
 
 # Output:
 
