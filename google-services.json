@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "647260025438",
+    "project_id": "connect-188e9",
+    "storage_bucket": "connect-188e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647260025438:android:45b4f3300b0fa857c7facf",
+        "android_client_info": {
+          "package_name": "com.bibek10.proconnect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhZSnuANRFsY13YwpYK2oJ3m5U4TuIMnk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
