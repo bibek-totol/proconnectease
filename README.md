@@ -1,10 +1,54 @@
-# Run Project
-# 1.Install node js(npm)
-# 2.Install expo cli for your project(expo environment)
-# 3.command: npm install (for up to date all package installation)
-# 4. Used Jsearch api
-# 5. Use android emulator or expo go for running this app
-# 6. Start project could be npx expo start or npm start or expo start in the terminal
+
+
+
+
+# 🏢 Job Portal Application  
+
+An advanced **AI-powered Job Portal** designed to make job searching, applying, and career building seamless.  
+This platform leverages modern web technologies and AI integration to enhance both **job seekers’** and **employers’** experiences.  
+
+---
+
+## ✨ Features  
+
+### 🔍 AI-Powered Job Search & Suggestions  
+- Smart search engine integrated with **AI algorithms**.  
+- Personalized **job recommendations** based on user skills, profile, and activity.  
+
+### 📤 Apply to Jobs via API  
+- Users can **apply directly** to listed jobs through secure API integrations.  
+- Real-time job application submission and status tracking.  
+
+### 📄 Resume Builder  
+- Built-in **resume generator** that helps candidates create professional resumes.  
+- AI-enhanced suggestions for skills and experience optimization.  
+
+### 🤖 AI Chatbot (24/7 Assistant)  
+- Integrated **AI chatbot** for instant answers about:  
+  - Company details  
+  - Job descriptions  
+  - Application procedures  
+- Provides **real-time guidance** throughout the job search process.  
+
+### 📝 Job Posting  
+- Employers can easily post jobs with structured forms.  
+- Supports **role-based access control** for secure posting and management.  
+
+### 📧 Apply Directly via Gmail  
+- Job seekers can apply to selected jobs directly using their **Gmail accounts**.  
+- Seamless email integration for faster communication with employers.  
+
+---
+
+## 🚀 Tech Stack  
+- **Frontend:** React Native
+- **Backend:**  Express.js  
+- **Database:** MongoDB / Firebase 
+- **AI Integration:** OpenAI API , ML-based Recommendation System  
+ 
+
+---
+
 
 # UI Demo:
 
@@ -60,6 +104,14 @@
 
 ![WhatsApp Image 2024-04-12 at 07 31 49](https://github.com/bibekbowmick2-2/proconnectease/assets/90594992/98171402-7658-4a10-b669-d5cac5778ef6)
 
+
+# Run Project
+# 1.Install node js(npm)
+# 2.Install expo cli for your project(expo environment)
+# 3.command: npm install (for up to date all package installation)
+# 4. Used Jsearch api
+# 5. Use android emulator or expo go for running this app
+# 6. Start project could be npx expo start or npm start or expo start in the terminal
 
 
 ![447766959_1916958078754182_5179605798244410941_n](https://github.com/bibekbowmick2-2/proconnectease/assets/90594992/c1592e99-fb76-49c6-9c4b-bcd1b6386ad8)
