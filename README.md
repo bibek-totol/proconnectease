@@ -6,7 +6,7 @@
 # 5. Use android emulator or expo go for running this app
 # 6. Start project could be npx expo start or npm start or expo start in the terminal
 
-# Output:
+# UI Demo:
 
 ![WhatsApp Image 2024-04-12 at 07 31 32](https://github.com/bibekbowmick2-2/proconnectease/assets/90594992/797f941c-778e-4780-a5c4-76174f680ca7)
 
